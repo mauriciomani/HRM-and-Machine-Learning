@@ -12,29 +12,29 @@ I did not know anyone in India at that time (except for Prof. Vigneswara, Swapni
 Delhi is very beautiful, so diverse and full of heritage, is in the heart of India, in fact that is what Delh means in English: HEART. If you are there you must visit AGRA and JAIPUR: THE GOLDEN TRIANGLE. You can use train, metro, auto, Uber and so on. 
 <br/>
 <p align="center">
-<img src="img/dhruv.png" alt="dhruv">
+<img src="img/dhruv.JPG" alt="dhruv">
 </p><br/>
 <br/>
 <p align="center">
-<img src="img/jeev.png" alt="jeev">
+<img src="img/jeev.JPG" alt="jeev">
 </p><br/>
 
 ## India culture.
 I enjoyed the movies, music, food and art. I am not a vegetarian; nevertheless, you can have chicken. I had chicken masala, pani puri, Palak Paneer, Malai Kofta, Kaali Daal, Chole Bhature, Aloo Ka Halwa, Paratha, Sweet Lassi, Curry, Chicken Biriyani, Jalebi, Gulab Jamun, Idili, Melu Vada, Masala Dosa, Tandori Chicken, Chapati. 
 <br/>
 <p align="left">
-<img src="img/food.png" alt="food">
+<img src="img/food.JPG" alt="food">
 </p><br/>
 <br/>
 <p align="right">
-<img src="img/pp.png" alt="pp">
+<img src="img/pp.JPG" alt="pp">
 </p><br/>
 India produces tons of music, what I heard the most were Punjabi songs and movies. Movies are full of emotions. Everyone studying in an engineering college in India have watched "3 IDIOTS" is a great movie, so real! PK, Barfi!, Namastey London, were very good movies as well. I went to a Bollywood musical: ZANGOORA, in Kingdom of dreams. 
 I went to the National Gallery of modern art, Jamini Roy, Krishen Khanna, Biren De, Santosh, Goud, Saroj Pal, Anju Dodiya, Sudhir Patwardhan; were my favorites artists. I enjoyed visiting Delhi, their temples, their markets and all sites. 
 I visited a lot of places, from the very famous Qutab Minar to a Sunday old books market.
 <br/>
 <p align="left">
-<img src="img/qutab_minar.png" alt="qm">
+<img src="img/qutab_minar.JPG" alt="qm">
 </p><br/>
 
 ## The research
@@ -53,13 +53,13 @@ The rest is just writing the paper, include conclusions, gaps, new ideas. And so
 After reading around 150 papers I discovered two important things, there are no clear definitions regarding data mining, data science, machine learning and so on; secondly, the importance of understanding algorithms, and the use of decision rules.
 Data Science is a broad discipline, even though the concept is recent, every day is evolving. According to Berkeley School of Information, the Data Science Life Cycle has five stages, this stages are not exclusive from one another. This five stages are Data Capture, Data Maintain, Data Process, Data Analysis and Data Communication. The latter is the most important activity in businesses. It is where we deliver Data Visualizations, Data Reports, Business Intelligence and Decision Making.  Most often, all the time spent in the remaining stages will end up in making decisions, based on the whole process, so we can constantly improve. 
 When trying to solve a data science problem, there are plenty of techniques you can use in order to puzzle it out; for example, support vector machines (SVM), decision trees, logistic regression, neural networks and many others. The big problem is that almost all of them are black boxes, you probably know what the algorithm is doing, hopefully, but your co-workers or random ordinary people might not understand the intuition behind those complex models. So as a data scientist you should not only extract value from data but also being able to translate results into solutions and then communicate that. Decision rules will help us extract clear conclusions on how the algorithm is making decisions. So we can later on make decision based on that. 
-We can extract decision rules using Python and some well-known libraries.  We are going to use an HR dataset provided by Kaggle contest. The features of the dataset are satisfaction level, last evaluation, number project, average monthly hours, time spend company, Work accident, left, promotion last 5 years, sales, and salary. Left variable will be our target. Basically we want two extract two things from our algorithm, the prediction of our target variable, in this case whether the employee leaved or not and why they are leaving. What features increases attrition risk? Those features will be the rest of the dataset, the variables that we will use to feed the decision tree. Basically, the root node is our entire dataset that will later be splitted based on our selected strategy like Gini Index, Chi-square, entropy or variance reduction. The dataset has 10 columns and 14,999 observations. 2 features are object data types, to work with scikit-learn we will transform to dummies those features, using pandas. We will use a train and a test data; the test will have 35% of the whole data. 
+We can extract decision rules using Python and some well-known libraries.  We are going to use an HR dataset provided by Kaggle contest. The features of the dataset are satisfaction level, last evaluation, number project, average monthly hours, time spend company, Work accident, left, promotion last 5 years, sales, and salary. <strong> Left </strong> variable will be our target. Basically we want two extract two things from our algorithm, the prediction of our target variable, in this case whether the employee leaved or not and why they are leaving. What features increases attrition risk? Those features will be the rest of the dataset, the variables that we will use to feed the decision tree. Basically, the root node is our entire dataset that will later be splitted based on our selected strategy like Gini Index, Chi-square, entropy or variance reduction. The dataset has 10 columns and 14,999 observations. 2 features are object data types, to work with scikit-learn we will transform to dummies those features, using pandas. We will use a train and a test data; the test will have 35% of the whole data. 
 To make the tree easier to interpret we are going to set the maximum depth of the tree to 5, so we can have more representative samples from all nodes. The score stills being pretty good with .97, and we can generalize the rules provided by the tree more easily. Like in everything, we will face the trade-off, between a bigger precision and an easier to interpret algorithm.  
 <br/>
 <p align="left">
 <img src="img/webgraph.png" alt="webgraph">
 </p>
-Once we call all the methods we will get a dot file, we can open that file with a text processor. Do not worry, it is not that complicated. Essentially, is a bunch of steps to build a visual decision tree, you can do that with python as well.  But it is even easier to visualize all that code, just using the web! Copy and paste all the lines to: <br/>http://www.webgraphviz.com/ <br/>Then, just click on Generate graph.
+Once we call all the methods we will get a dot file, we can open that file with a text processor. Do not worry, it is not that complicated. Essentially, is a bunch of steps to build a visual decision tree, you can do that with python as well.  But it is even easier to visualize all that code, just using the web! Copy and paste all the lines to: <br/>http://www.webgraphviz.com/ <br/>Then, just click on <strong>Generate graph</strong>.
 You will automatically get a decision tree. If it is to robust, probably you might consider moving the parameters of the algorithm. 
 <br/>
 <p align="center">
