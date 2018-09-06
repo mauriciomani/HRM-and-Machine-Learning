@@ -34,7 +34,7 @@ I went to the National Gallery of modern art, Jamini Roy, Krishen Khanna, Biren 
 I visited a lot of places, from the very famous Qutab Minar to a Sunday old books market.
 <br/>
 <p align="center">
-<img src="img/qutab_minar.JPG" alt="qm" width = 50% height = 50% />
+<img src="img/microtrend.JPG">
 </p><br/>
 
 ## The research
@@ -93,7 +93,7 @@ Finally, Plotting the importance of the features might be a good idea. This can 
 Definitely satisfaction level is very importan when making a decision, also the years in the company and the last evaluation, last but not least the number of projects and the monthly hours working. We can say that accidents in the organization, promotions, salary and position are irrelevant. 
 <br/>
 <p align="center">
-<img src="img/importance_of_the_features.PNG" alt="i_f">
+<img src="img/importance_of_the_features.png" alt="i_f">
 </p>
 
 
