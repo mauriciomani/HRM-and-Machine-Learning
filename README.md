@@ -64,33 +64,33 @@ You will automatically get a decision tree. If it is to robust, probably you mig
 
 ## Ready?
 Lets extract the rules from the decision tree. First some concepts:<br/>
-**Entropy:** 
-> Measure of unpredictability of information content in other words is how much information we learn on average from one instance. We are looking for zero when speaking about entropy. Zero means there is only one label in the node. 
-<br/>
-**Samples:** 
-> The amount of observations in each node. 
-<br/>
-**Value:** 
->The amount of observations in each label. The one on the left is the zero value and the one on the right is the number 1. In this case  in and left respectively. <br/>
+* Entropy: 
+Measure of unpredictability of information content in other words is how much information we learn on average from one instance. We are looking for zero when speaking about entropy. Zero means there is only one label in the node. 
+* Samples:
+The amount of observations in each node. 
+* Value:
+The amount of observations in each label. The one on the left is the zero value and the one on the right is the number 1. In this case  in and left respectively. 
+
 To extract decision rules from our tree we must consider the nodes at the end (end nodes) and then all the way up until the root node (backward) or vice versa (forward). It is important to cover all the branch. Otherwise our decisions will be less accurate. 
 <br/>
 <p align="center">
 <img src="img/dec_1039.PNG" alt="dec_tree">
 </p>
 To extract relevant conclusions, we must ponder those end nodes with tons of observations no matter they are 0 or 1 (in or left). The most relevant include 1039, 981, 5261, 631 samples. 
->If average month worked hours are more than 126 hours and the result on the last evaluation is between 0.445 and 0.574, and he or she  >has less than 2 projects and a satisfaction level less than 0.465 he or she will be more inclined to leave the organization. 
+1. If average month worked hours are more than 126 hours and the result on the last evaluation is between 0.445 and 0.574, and he or she  has less than 2 projects and a satisfaction level less than 0.465 he or she will be more inclined to leave the organization. 
 <br/>
 <p align="left">
 <img src="img/dec_981_5261.PNG" alt="dec2">
 </p>
->If satisfaction level of the workers is less than 0.465 and the average monthly worked hours are less than 290 hours and finally the > >number of projects is between 3 and 6, then the employee will move towards staying in the organization
+2. If satisfaction level of the workers is less than 0.465 and the average monthly worked hours are less than 290 hours and finally the > number of projects is between 3 and 6, then the employee will move towards staying in the organization
 <br/>
->If the worker has between 3 and 5 projects and worked less than 290 hours and has less than 4 years in the organization and a >satisfaction level more than 0.465 they will be more inclined to stay in the company. 
+3. If the worker has between 3 and 5 projects and worked less than 290 hours and has less than 4 years in the organization and a satisfaction level more than 0.465 they will be more inclined to stay in the company. 
 <br/>
 <p align="right">
 <img src="img/dec_631.PNG" alt="dec3">
 </p>
->If the time spent in the organization is between 5 and 7 years and the last evaluation scoring is more than 0.8 points, working more >than 214 > hours on average a month, having a satisfaction level more than 0.46 they will be prone to leave the company.
+4. If the time spent in the organization is between 5 and 7 years and the last evaluation scoring is more than 0.8 points, working more than 214 > hours on average a month, having a satisfaction level more than 0.46 they will be prone to leave the company.
+
 Finally, Plotting the importance of the features might be a good idea. This can give us a clue on what a worker values the most or at least worries the most. You can obtain this information through the feature_importances_ parameter. And then you just have to plot it. 
 Definitely satisfaction level is very importan when making a decision, also the years in the company and the last evaluation, last but not least the number of projects and the monthly hours working. We can say that accidents in the organization, promotions, salary and position are irrelevant. 
 <br/>
