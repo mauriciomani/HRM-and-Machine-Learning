@@ -23,18 +23,14 @@ Delhi is very beautiful, so diverse and full of heritage, is in the heart of Ind
 I enjoyed the movies, music, food and art. I am not a vegetarian; nevertheless, you can have chicken. I had chicken masala, pani puri, Palak Paneer, Malai Kofta, Kaali Daal, Chole Bhature, Aloo Ka Halwa, Paratha, Sweet Lassi, Curry, Chicken Biriyani, Jalebi, Gulab Jamun, Idili, Melu Vada, Masala Dosa, Tandori Chicken, Chapati. 
 <br/>
 <p align="center">
-<img src="img/food.JPG" alt="food" width = 60% height = 60%>
-</p><br/>
-<br/>
-<p align="center">
-<img src="img/pp.JPG" alt="pp" width = 60% height = 60%>
+<img src="cur_pp.png" alt="food">
 </p><br/>
 India produces tons of music, what I heard the most were Punjabi songs and movies. Movies are full of emotions. Everyone studying in an engineering college in India have watched "3 IDIOTS" is a great movie, so real! PK, Barfi!, Namastey London, were very good movies as well. I went to a Bollywood musical: ZANGOORA, in Kingdom of dreams. 
 I went to the National Gallery of modern art, Jamini Roy, Krishen Khanna, Biren De, Santosh, Goud, Saroj Pal, Anju Dodiya, Sudhir Patwardhan; were my favorites artists. I enjoyed visiting Delhi, their temples, their markets and all sites. 
 I visited a lot of places, from the very famous Qutab Minar to a Sunday old books market.
 <br/>
 <p align="center">
-<img src="img/microtrend.JPG">
+<img src="img/qutab_minar_book.png" alt = "qutab_minar_book">
 </p><br/>
 
 ## The research
