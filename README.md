@@ -25,7 +25,7 @@ I enjoyed the movies, music, food and art. India is full of vegetarians, neverth
 <p align="center">
 <img src="img/cur_pp.png" alt="food">
 </p><br/>
-India produces tons of music, what I heard the most were Punjabi songs and movies. Movies are full of emotions. Everyone studying in an engineering college in India have watched "3 IDIOTS" is a great movie, so real! PK, Barfi!, Namastey London, were very good movies as well. I went to a Bollywood musical: ZANGOORA, in Kingdom of dreams. 
+India produces tons of music, what I heard the most were Punjabi songs. Movies are full of emotions. Everyone studying in an engineering college in India have watched "3 IDIOTS" is a great movie, so real! PK, Barfi!, Namastey London, were very good movies as well. I went to a Bollywood musical: ZANGOORA, in Kingdom of dreams. 
 I went to the National Gallery of modern art, Jamini Roy, Krishen Khanna, Biren De, Santosh, Goud, Saroj Pal, Anju Dodiya, Sudhir Patwardhan; were my favorites artists. I enjoyed visiting Delhi, their temples, their markets and all sites. 
 I visited a lot of places, from the very famous Qutab Minar to a Sunday old books market.
 <br/>
