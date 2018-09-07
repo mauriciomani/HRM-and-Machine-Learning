@@ -89,6 +89,7 @@ To extract relevant conclusions, we must ponder those end nodes with tons of obs
 <img src="img/dec_981_5261.PNG" alt="dec2">
 </p>
 3. If the worker has between 3 and 5 projects and worked less than 290 hours and has less than 4 years in the organization and a satisfaction level more than 0.465 they will be more inclined to stay in the company. 
+
 4. If the time spent in the organization is between 5 and 7 years and the last evaluation scoring is more than 0.8 points, working more than 214 > hours on average a month, having a satisfaction level more than 0.46 they will be prone to leave the company.
 <br/>
 <p align="right">
