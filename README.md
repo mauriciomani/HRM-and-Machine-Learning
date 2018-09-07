@@ -64,13 +64,13 @@ You will automatically get a decision tree. If it is to robust, probably you mig
 
 ## Ready?
 Lets extract the rules from the decision tree. First some concepts:<br/>
-*Entropy:* 
+**Entropy:** 
 > Measure of unpredictability of information content in other words is how much information we learn on average from one instance. We are looking for zero when speaking about entropy. Zero means there is only one label in the node. 
 <br/>
-*Samples:* <br/>
+**Samples:** 
 > The amount of observations in each node. 
 <br/>
-*Value:* <br/>
+**Value:** 
 >The amount of observations in each label. The one on the left is the zero value and the one on the right is the number 1. In this case  in and left respectively. <br/>
 To extract decision rules from our tree we must consider the nodes at the end (end nodes) and then all the way up until the root node (backward) or vice versa (forward). It is important to cover all the branch. Otherwise our decisions will be less accurate. 
 <br/>
