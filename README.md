@@ -20,7 +20,7 @@ Delhi is very beautiful, so diverse and full of heritage, is in the heart of Ind
 </p><br/>
 
 ## India culture.
-I enjoyed the movies, music, food and art. I am not a vegetarian; nevertheless, you can have chicken. I had chicken masala, pani puri, Palak Paneer, Malai Kofta, Kaali Daal, Chole Bhature, Aloo Ka Halwa, Paratha, Sweet Lassi, Curry, Chicken Biriyani, Jalebi, Gulab Jamun, Idili, Melu Vada, Masala Dosa, Tandori Chicken, Chapati. 
+I enjoyed the movies, music, food and art. India is full of vegetarians, nevertheless, you can have chicken. I had chicken masala, pani puri, Palak Paneer, Malai Kofta, Kaali Daal, Chole Bhature, Aloo Ka Halwa, Paratha, Sweet Lassi, Curry, Chicken Biriyani, Jalebi, Gulab Jamun, Idili, Melu Vada, Masala Dosa, Tandori Chicken, Chapati. 
 <br/>
 <p align="center">
 <img src="img/cur_pp.png" alt="food">
