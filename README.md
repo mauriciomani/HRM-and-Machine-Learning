@@ -83,13 +83,13 @@ To extract relevant conclusions, we must ponder those end nodes with tons of obs
 <p align="center">
 <img src="img/dec_1039.PNG" alt="dec_tree">
 </p>
-2. If satisfaction level of the workers is less than 0.465 and the average monthly worked hours are less than 290 hours and finally the > number of projects is between 3 and 6, then the employee will move towards staying in the organization
+2. If satisfaction level of the workers is less than 0.465 and the average monthly worked hours are less than 290 hours and finally the  number of projects is between 3 and 6, then the employee will move towards staying in the organization
 <br/>
 <p align="left">
 <img src="img/dec_981_5261.PNG" alt="dec2">
 </p>
 3. If the worker has between 3 and 5 projects and worked less than 290 hours and has less than 4 years in the organization and a satisfaction level more than 0.465 they will be more inclined to stay in the company. <br/>
-4. If the time spent in the organization is between 5 and 7 years and the last evaluation scoring is more than 0.8 points, working more than 214 > hours on average a month, having a satisfaction level more than 0.46 they will be prone to leave the company.
+4. If the time spent in the organization is between 5 and 7 years and the last evaluation scoring is more than 0.8 points, working more than 214 hours on average a month, having a satisfaction level more than 0.46 they will be prone to leave the company.
 <br/>
 <p align="right">
 <img src="img/dec_631.PNG" alt="dec3">
