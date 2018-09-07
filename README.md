@@ -5,9 +5,11 @@
 <p align="left">
 <img src="img/iit.JPG" alt="iit">
 </p><br/>
-## Introduction
-This article is divided in two parts. The first is my experience developing a Systematic Literature Review in the Indian Institute of Technology, Delhi. The second is what I found important in the human resource field regarding artificial intelligence. And I provide an example using a Kaggle dateset for the attrition risk in any enterprise. 
 
+## Introduction
+This article is divided in two parts. The first is my experience developing a Systematic Literature Review in the Indian Institute of Technology, Delhi. The second is what I found important in the human resource field regarding artificial intelligence. And I provide an example using a Kaggle dateset for the attrition risk in any enterprise (if an employee is liing or not). 
+
+## Indian Institute of Technology Delhi
 Being in India has been one of the best experiences I have ever had. I am very proud of being part and made so great friends in one of the most prestigious universities in India: Indian Institute of Technology Delhi, IIT Delhi. Also tell all my new friends about my great university in Mexico and about Mexico in general. 
 When I arrived, I realize not everyone was going to speak English in India, almost all people understand (I think so) but speaking for them is difficult. When I arrived to Satpura, what I called house, an almost graduate student, Dhruv, helped me out get my SIM activated and tried to fix out my stay in Satpura, complicated. Later, my friend and right hand, Swapnil got everything done to get my room: SA-10 in the ground floor, way better in the ground, because there, it was not that hot. First day was the thing! No chain, very light and uncomfortable mattress and a lot of mosquitoes made me woke up around 5 am. 
 The adventure started, practically first day in India. First experience, get my room and stay paid. The food in the mess was very good, at least for me, as a foreigner I found it great. However, some friends told me, having the same food for four years is hell.  
@@ -72,10 +74,13 @@ You will automatically get a decision tree. If it is to robust, probably you mig
 <img src="img/decision_tree.PNG" alt="dec_tree">
 </p>
 Lets extract the rules from the decision tree. First some concepts:<br/>
+
 * Entropy: 
 Measure of unpredictability of information content in other words is how much information we learn on average from one instance. We are looking for zero when speaking about entropy. Zero means there is only one label in the node. 
+
 * Samples:
 The amount of observations in each node. 
+
 * Value:
 The amount of observations in each label. The one on the left is the zero value and the one on the right is the number 1. In this case  in and left respectively. 
 
@@ -105,3 +110,5 @@ Definitely satisfaction level is very importan when making a decision, also the 
 <img src="img/importance_of_the_features.png" alt="i_f">
 </p>
 
+## Conclusions
+Hiring an employee is very costly and firing and employee it is even more costly (you have to take into account all the hiring costs as well).All the rules extracted using this dataset might not be considered to make decisions in an enterprise. This kaggle dataset is simulated but is very useful to visualize how to extract information from enterprise data and convert it to real policies. This data provided by Kaggle is almost clean, so that process was completely easy. When working in a real data base (specially in HRM) your data can be very messy, so be aware of that, you might spend around 80% of your time cleaning the data. Always remember knowing why you are picking a particular decision is very important, that is why we are using deicision rules. Once we know why they are leaving we can motivate them accordingly, we are linving in a tailored world. 
