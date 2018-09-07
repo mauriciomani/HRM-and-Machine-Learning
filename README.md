@@ -5,6 +5,9 @@
 <p align="left">
 <img src="img/iit.JPG" alt="iit">
 </p><br/>
+## Introduction
+This article is divided in two parts. The first is my experience developing a Systematic Literature Review in the Indian Institute of Technology, Delhi. The second is what I found important in the human resource field regarding artificial intelligence. And I provide an example using a Kaggle dateset for the attrition risk in any enterprise. 
+
 Being in India has been one of the best experiences I have ever had. I am very proud of being part and made so great friends in one of the most prestigious universities in India: Indian Institute of Technology Delhi, IIT Delhi. Also tell all my new friends about my great university in Mexico and about Mexico in general. 
 When I arrived, I realize not everyone was going to speak English in India, almost all people understand (I think so) but speaking for them is difficult. When I arrived to Satpura, what I called house, an almost graduate student, Dhruv, helped me out get my SIM activated and tried to fix out my stay in Satpura, complicated. Later, my friend and right hand, Swapnil got everything done to get my room: SA-10 in the ground floor, way better in the ground, because there, it was not that hot. First day was the thing! No chain, very light and uncomfortable mattress and a lot of mosquitoes made me woke up around 5 am. 
 The adventure started, practically first day in India. First experience, get my room and stay paid. The food in the mess was very good, at least for me, as a foreigner I found it great. However, some friends told me, having the same food for four years is hell.  
