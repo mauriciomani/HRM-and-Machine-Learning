@@ -7,7 +7,7 @@
 </p><br/>
 
 ## Introduction
-This article is divided in two parts. The first is my experience developing a Systematic Literature Review in the Indian Institute of Technology, Delhi. The second is what I found important in the human resource field regarding artificial intelligence. And I provide an example using a Kaggle dateset for the attrition risk in any enterprise (if an employee is liing or not). 
+This article is divided in two parts. The first is my experience developing a Systematic Literature Review in the Indian Institute of Technology, Delhi. The second is what I found important in the human resource field regarding artificial intelligence. And I provide an example using a Kaggle dateset for the attrition risk in any enterprise (if an employee is leaving or not). 
 
 ## Indian Institute of Technology Delhi
 Being in India has been one of the best experiences I have ever had. I am very proud of being part and made so great friends in one of the most prestigious universities in India: Indian Institute of Technology Delhi, IIT Delhi. Also tell all my new friends about my great university in Mexico and about Mexico in general. 
