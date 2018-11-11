@@ -1,6 +1,10 @@
 # Human resource management and machine learning research: My experience
 ----
 
+#Translations:
+* [English](README.md)
+* [Español](README-es.md)
+
 <br/>
 <p align="left">
 <img src="img/iit.JPG" alt="iit">
