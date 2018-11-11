@@ -96,7 +96,7 @@ Finalmente, trazar la importancia de las funciones puede ser una buena idea. Est
 Definitivamente, el nivel de satisfacción es muy importante al tomar una decisión, también los años en la empresa y la última evaluación, por último, pero no menos importante, la cantidad de proyectos y las horas mensuales de trabajo. Podemos decir que los accidentes en la organización, promociones, salario y cargo son irrelevantes.
 <br/>
 <p align = "center">
-<img src = "img/depth_of_the_features.png" alt = "i_f">
+<img src = "img/importance_of_the_features.png" alt = "i_f">
 </p>
 
 ## Conclusiones
