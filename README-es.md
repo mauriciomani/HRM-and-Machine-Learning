@@ -21,27 +21,26 @@ No conocía a nadie en la India en ese momento (excepto por el Prof. Vigneswara,
 Delhi es muy hermosa, tan diversa y llena de patrimonio, está en el corazón de la India, de hecho, eso es lo que Delh significa en inglés: CORAZÓN. Si estás allí debes visitar AGRA y JAIPUR: EL TRIÁNGULO DE ORO.
 <br/>
 <p align = "center">
-<img src = "img / dhruv.JPG" alt = "dhruv">
-</p> <br/>
+<img src = "img/dhruv.JPG" alt = "dhruv">
+</p><br/>
 <br/>
 <p align = "center">
-<img src = "img / jeev.JPG" alt = "jeev">
+<img src = "img/jeev.JPG" alt = "jeev">
 </p> <br/>
 
 ## Cultura india.
 Disfruté el cine, la música, la comida y el arte. India está llena de vegetarianos, sin embargo, puedes comer pollo. Comí pollo masala, pani puri, Palak Paneer, Malai Kofta, Kaali Daal, Chole Bhature, Aloo Ka Halwa, Paratha, Lassi dulce, Curry, pollo Biriyani, Jalebi, Gulab Jamun, Idili, Melu Vada, Masala Dosa, Tandori Chicken, Chapati
 <br/>
 <p align = "center">
-<img src = "img / cur_pp.png" alt = "food">
-</p> <br/>
+<img src = "img/cur_pp.png" alt = "food">
+</p><br/>
 Las películas están llenas de emociones. Todos los que estudian en una escuela de ingeniería en la India han visto "3 IDIOTS" es una gran película, ¡muy real! PK, Barfi !, Namastey London, también fueron muy buenas películas. Fui a un musical de Bollywood: ZANGOORA, en El reino de los sueños.
 Disfruté visitando Delhi, Agra y Jaipur, sus templos, sus mercados y todos los sitios.
 Visité muchos lugares, desde el famoso Taj Mahal en Agra hasta un antiguo mercado de libros dominical en Delhi.
 <br/>
 <p align = "center">
-<img src = "img / qutab_minar_book.png" alt = "qutab_minar_book">
+<img src = "img/qutab_minar_book.png" alt = "qutab_minar_book">
 </p> <br/>
-
 
 ## Reglas de decisión en un contexto HRM
 Después de leer alrededor de 150 artículos, descubrí dos cosas importantes, no hay definiciones claras con respecto a la extracción de datos, la ciencia de la información, el aprendizaje automático, etc. En segundo lugar, la importancia de comprender los algoritmos y el uso de las reglas de decisión.
@@ -54,14 +53,14 @@ Para hacer que el árbol sea más fácil de interpretar, estableceremos la profu
 Una vez que llamemos a todos los métodos, obtendremos un archivo de puntos, podemos abrir ese archivo con un procesador de texto. No te preocupes, no es tan complicado. Esencialmente, hay un montón de pasos para construir un árbol de decisión visual, también puedes hacer eso con python. ¡Pero es aún más fácil visualizar todo ese código, simplemente usando la web! Copie y pegue todas las líneas en: <br/> http://www.webgraphviz.com/ <br/> Luego, haga clic en <strong> Generar gráfico </strong>.
 <br/>
 <p align = "left">
-<img src = "img / webgraph.PNG" alt = "webgraph">
+<img src = "img/webgraph.PNG" alt = "webgraph">
 </p>
 Obtendrá automáticamente un árbol de decisión. Si es robusto, probablemente podría considerar mover los parámetros del algoritmo.
 
 ## ¿Listo?
 <br/>
 <p align = "center">
-<img src = "img / decision_tree.PNG" alt = "dec_tree">
+<img src = "img/decision_tree.PNG" alt = "dec_tree">
 </p>
 Permite extraer las reglas del árbol de decisión. Primero algunos conceptos: <br/>
 
@@ -79,25 +78,25 @@ Para extraer conclusiones relevantes, debemos ponderar esos nodos finales con to
 1. Si el promedio de horas trabajadas es de más de 126 horas y el resultado de la última evaluación está entre 0,445 y 0,574, y tiene menos de 2 proyectos y un nivel de satisfacción menor de 0,465 estará más inclinado a irse la organización.
 <br/>
 <p align = "center">
-<img src = "img / dec_1039.PNG" alt = "dec_tree">
+<img src = "img/dec_1039.PNG" alt = "dec_tree">
 </p>
 2. Si el nivel de satisfacción de los trabajadores es inferior a 0,465 y el promedio de horas trabajadas mensuales es inferior a 290 horas y, finalmente, el número de proyectos es de 3 a 6, el empleado pasará a permanecer en la organización.
 <br/>
 <p align = "left">
-<img src = "img / dec_981_5261.PNG" alt = "dec2">
+<img src = "img/dec_981_5261.PNG" alt = "dec2">
 </p>
 3. Si el trabajador tiene entre 3 y 5 proyectos y trabajó menos de 290 horas y tiene menos de 4 años en la organización y un nivel de satisfacción de más de 0.465, estarán más dispuestos a permanecer en la empresa. <br/>
 4. Si el tiempo que se pasa en la organización es de entre 5 y 7 años y la puntuación de la última evaluación es más de 0.8 puntos, trabajando más de 214 horas en promedio al mes, con un nivel de satisfacción de más de 0.46, serán propensos a abandonar el empresa.
 <br/>
 <p align = "right">
-<img src = "img / dec_631.PNG" alt = "dec3">
+<img src = "img/dec_631.PNG" alt = "dec3">
 </p> <br/>
 
 Finalmente, trazar la importancia de las funciones puede ser una buena idea. Esto nos puede dar una idea de lo que un trabajador valora más o, al menos, lo que más se preocupa. Puede obtener esta información a través del parámetro feature_importances_. Y luego solo hay que trazarlo.
 Definitivamente, el nivel de satisfacción es muy importante al tomar una decisión, también los años en la empresa y la última evaluación, por último, pero no menos importante, la cantidad de proyectos y las horas mensuales de trabajo. Podemos decir que los accidentes en la organización, promociones, salario y cargo son irrelevantes.
 <br/>
 <p align = "center">
-<img src = "img / depth_of_the_features.png" alt = "i_f">
+<img src = "img/depth_of_the_features.png" alt = "i_f">
 </p>
 
 ## Conclusiones
